@@ -1,4 +1,4 @@
-# Backend Development
+# Backend Development – Our first repository
 This is the first repository of Laura Reibenschuh, Michael Sommer and Pirmin Steiner. They are studying content strategy at FH JOANNEUM in Graz where they are also attending the course Backend Development. In the first assignment they learnt how to set up a Hugo site,  customize the theme and adding content.
 
 ## Assignment 2
